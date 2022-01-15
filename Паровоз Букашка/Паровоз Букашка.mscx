@@ -3250,8 +3250,8 @@
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
-              <pitch>45</pitch>
-              <tpc>17</tpc>
+              <pitch>55</pitch>
+              <tpc>15</tpc>
               </Note>
             </Chord>
           </voice>
@@ -3372,8 +3372,8 @@
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
-              <pitch>52</pitch>
-              <tpc>18</tpc>
+              <pitch>55</pitch>
+              <tpc>15</tpc>
               </Note>
             </Chord>
           <Harmony>
@@ -3395,8 +3395,8 @@
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
-              <pitch>45</pitch>
-              <tpc>17</tpc>
+              <pitch>54</pitch>
+              <tpc>20</tpc>
               </Note>
             </Chord>
           </voice>
@@ -3848,8 +3848,8 @@
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
-              <pitch>45</pitch>
-              <tpc>17</tpc>
+              <pitch>55</pitch>
+              <tpc>15</tpc>
               </Note>
             </Chord>
           </voice>
@@ -3970,8 +3970,8 @@
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
-              <pitch>52</pitch>
-              <tpc>18</tpc>
+              <pitch>55</pitch>
+              <tpc>15</tpc>
               </Note>
             </Chord>
           <Harmony>
@@ -3993,8 +3993,8 @@
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
-              <pitch>45</pitch>
-              <tpc>17</tpc>
+              <pitch>54</pitch>
+              <tpc>20</tpc>
               </Note>
             </Chord>
           </voice>
@@ -8631,8 +8631,8 @@
               <Note>
                 <linked>
                   </linked>
-                <pitch>45</pitch>
-                <tpc>17</tpc>
+                <pitch>55</pitch>
+                <tpc>15</tpc>
                 </Note>
               </Chord>
             </voice>
@@ -8778,8 +8778,8 @@
               <Note>
                 <linked>
                   </linked>
-                <pitch>52</pitch>
-                <tpc>18</tpc>
+                <pitch>55</pitch>
+                <tpc>15</tpc>
                 </Note>
               </Chord>
             <Harmony>
@@ -8806,8 +8806,8 @@
               <Note>
                 <linked>
                   </linked>
-                <pitch>45</pitch>
-                <tpc>17</tpc>
+                <pitch>54</pitch>
+                <tpc>20</tpc>
                 </Note>
               </Chord>
             </voice>
@@ -9349,8 +9349,8 @@
               <Note>
                 <linked>
                   </linked>
-                <pitch>45</pitch>
-                <tpc>17</tpc>
+                <pitch>55</pitch>
+                <tpc>15</tpc>
                 </Note>
               </Chord>
             </voice>
@@ -9496,8 +9496,8 @@
               <Note>
                 <linked>
                   </linked>
-                <pitch>52</pitch>
-                <tpc>18</tpc>
+                <pitch>55</pitch>
+                <tpc>15</tpc>
                 </Note>
               </Chord>
             <Harmony>
@@ -9524,8 +9524,8 @@
               <Note>
                 <linked>
                   </linked>
-                <pitch>45</pitch>
-                <tpc>17</tpc>
+                <pitch>54</pitch>
+                <tpc>20</tpc>
                 </Note>
               </Chord>
             </voice>
