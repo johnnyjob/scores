@@ -103,9 +103,9 @@
           </StaffType>
         <defaultClef>G8vb</defaultClef>
         </Staff>
-      <trackName>Classical Guitar</trackName>
+      <trackName>Гитара</trackName>
       <Instrument id="guitar-nylon">
-        <longName>Classical Guitar</longName>
+        <longName>Гитара</longName>
         <trackName>Classical Guitar</trackName>
         <minPitchP>40</minPitchP>
         <maxPitchP>83</maxPitchP>
@@ -219,6 +219,10 @@
             <linkedMain/>
             <text>Allegretto</text>
             </Tempo>
+          <RehearsalMark>
+            <linkedMain/>
+            <text>Вступление</text>
+            </RehearsalMark>
           <Rest>
             <linkedMain/>
             <durationType>eighth</durationType>
@@ -4032,6 +4036,11 @@
                 </linked>
               <text>Allegretto</text>
               </Tempo>
+            <RehearsalMark>
+              <linked>
+                </linked>
+              <text>Вступление</text>
+              </RehearsalMark>
             <Rest>
               <linked>
                 </linked>
@@ -6275,6 +6284,15 @@
                 </linked>
               <text>Allegretto</text>
               </Tempo>
+            <RehearsalMark>
+              <linked>
+                <location>
+                  <staves>-1</staves>
+                  </location>
+                <indexDiff>6</indexDiff>
+                </linked>
+              <text>Вступление</text>
+              </RehearsalMark>
             <Rest>
               <linked>
                 <indexDiff>2</indexDiff>
