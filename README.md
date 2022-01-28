@@ -1,2 +1,2 @@
 # Scores
-Sheet music Musescore uncompressed (MSCX) format.
+Sheet music in Musescore uncompressed format (MSCX).
