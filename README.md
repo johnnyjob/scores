@@ -1,2 +1,2 @@
 # Scores
-Sheet music Musescore uncompressed (XML) format.
+Sheet music Musescore uncompressed (MSCX) format.
