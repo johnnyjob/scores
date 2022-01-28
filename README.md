@@ -1,2 +1,2 @@
-# scores
-Sheet music.
+# Scores
+Sheet music Musescore uncompressed (XML) format.
